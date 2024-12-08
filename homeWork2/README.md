@@ -8,4 +8,4 @@
 
 Для установки нужно вписать команду:
 
-_npm i npmcoinrandomtwo _
+_ npm i homework2_loggggg _
