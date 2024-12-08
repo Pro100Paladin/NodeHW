@@ -8,4 +8,4 @@
 
 Для установки нужно вписать команду:
 
-_ npm i homework2_loggggg _
+_ npm i homework2_log1 _
