@@ -1,0 +1,12 @@
+{
+  "name": "homework3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node express_server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "## Напишите HTTP сервер на express и реализуйте два обработчика “/” и “/about”, где:"
+}
