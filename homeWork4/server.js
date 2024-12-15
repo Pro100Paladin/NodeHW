@@ -29,6 +29,11 @@ const writeUsersFile = async (users) => {
     }
 };
 
+app.get('/', (req, res)=> {
+    let html = '<h1>начальная страница сайта</h1>';
+    res.send(html);
+});
+
 // Получение всех пользователей
 app.get('/users', readUsersFile, (req, res) => {
     res.json(req.users);
